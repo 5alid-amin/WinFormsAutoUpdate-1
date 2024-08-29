@@ -17,13 +17,13 @@ Follow the following steps:
 *  -text
 ```
 (متنساااش الاجنووور يلااااااااااااا)
-   1 creat file (.gitignore) 
-   2 .gitignore/ andd this content ```*.vs/```
-   3 open cmd and past this code 
+   1- creat file (.gitignore) 
+   2- .gitignore/ andd this content ```*.vs/```
+   3- open cmd and past this code 
    ```
-    *git add .gitignore
-    *git commit -m "Add .gitignore file"
-    *  -git push origin main
+    git add .gitignore
+    git commit -m "Add .gitignore file"
+    git push origin main
    ```
     عاش يخوويا كمل زي م انت
 4. How commit and push to the github repository. Navigate to this file in the repository click on the RAW button. Copy the URL address till '/publish/'. It will look like this <br>
