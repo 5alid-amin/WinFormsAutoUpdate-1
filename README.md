@@ -23,7 +23,7 @@ Follow the following steps:
    ```
     *git add .gitignore
     *git commit -m "Add .gitignore file"
-    *git push origin main
+    *  -git push origin main
     ```
     عاش يخوويا كمل زي م انت
 4. How commit and push to the github repository. Navigate to this file in the repository click on the RAW button. Copy the URL address till '/publish/'. It will look like this <br>
